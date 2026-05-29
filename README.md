@@ -113,12 +113,11 @@ This project demonstrates:
 
 ## License
 
-This project is part of the Data Science Projects collection.
+This project is part of my Machine Learning Projects collection.
 
 ## Author
 
-Data Science Enthusiast
-
+Mohamed Diaby Gassama
 ---
 
 **Note**: This project requires the clinical dataset to run. Ensure all dependencies are installed before execution.
